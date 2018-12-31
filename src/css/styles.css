@@ -2,7 +2,7 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 14px;
-  background-color: rgb(255,105,180);
+  background-color:rgb(245,180,42) ;
 }
 
 .container {
@@ -11,15 +11,13 @@ body {
   align-items: center;
   border-color: white;
   color: white;
+  
 
 }
 .title{
   margin-top: 20px;
   margin-bottom: 20px;
-  color: #e1ffd7;
-  color: transparent;
-  background-image: linear-gradient(#fff, #e1ffd7);
-  -webkit-background-clip: text;
+  color: white;
   font-size: 40px;
   text-align: center;
 }
@@ -57,7 +55,7 @@ body {
 
 .progressfill {
   height: 20px;
-  background-color:rgb(255,105,180) ;
+  background-color:rgb(245,180,42) ;
   width: 0%;
 }
 

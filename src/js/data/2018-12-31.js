@@ -8,686 +8,413 @@ dataSet[dataSetVersion].options = [
     	tooltip: "Deselect this if you want to remove team from lists.",
     	checked: true,
     	sub:[
-    		{ name: "Team A", key: "teamA" },
+    		{ name: "Team S", key: "teamS" },
     		{ name: "Team K", key: "teamK" },
-    		{ name: "Team B", key: "teamB" },
-    		{ name: "Team 4", key: "team4" },
-    		{ name: "Team 8", key: "team8" }
+    		{ name: "Team E", key: "teamE" }
     	]
 	}
 ];
 
 dataSet[dataSetVersion].characterData = [
 
-	//Team A
+	//Team S
 
 	{
-		name: "Chiba Eri",
-		img: "mwamBiP.jpg",
+		name: "Yamada Juna",
+		img: "PR2FvL6.jpg",
 		opts: {
-			Team: ["teamA"]
+			Team: ["teamS"]
 			}
 	},
 	{
-		name: "Goto Moe",
-		img: "DVr2P5z.jpg",
+		name: "Yamaguchi Suzurun",
+		img: "S0G6yD9.jpg",
 		opts: {
-			Team: ["teamA"]
+			Team: ["teamS"]
 		}
 	},
 	{
-		name: "Iriyama Anna",
-		img: "Pi69TVm.jpg",
+		name: "Matsumoto Chikako",
+		img: "tSNXdf4.jpg",
 		opts: {
-			Team: ["teamA"]
+			Team: ["teamS"]
 		}
 	},
 	{
-		name: "Kato Rena",
-		img: "srad4WM.jpg",
+		name: "Matsui Jurina",
+		img: "0ylbjvA.jpg",
 		opts: {
-			Team: ["teamA"]
+			Team: ["teamS"]
 		}
 	},
 	{
-		name: "Maeda Ayaka",
-		img: "SduBwnb.jpg",
+		name: "Nomura Miyo",
+		img: "YII6ShF.jpg",
 		opts: {
-			Team: ["teamA"]
+			Team: ["teamS"]
 		}
 	},
 	{
-		name: "Miyazaki Miho",
-		img: "uZXZGBb.jpg",
+		name: "Nojima Kano",
+		img: "BD7Br9j.jpg",
 		opts: {
-			Team: ["teamA"]
+			Team: ["teamS"]
 		}
 	},
 	{
-		name: "Mukaichi Mion",
-		img: "DD9sHvA.jpg",
+		name: "Nagamura Izumi",
+		img: "XVjKevC.jpg",
 		opts: {
-			Team: ["teamA"]
+			Team: ["teamS"]
 		}
 	},
 	{
-		name: "Nishikawa Rei",
-		img: "hUICE3r.jpg",
+		name: "Tsuzuki Rika",
+		img: "olmbvbz.jpg",
 		opts: {
-			Team: ["teamA"]
+			Team: ["teamS"]
 		}
 	},
 	{
-		name: "Shinozaki Ayana",
-		img: "KENsifA.jpg",
+		name: "Sugiyama Aika",
+		img: "rv7ibE2.jpg",
 		opts: {
-			Team: ["teamA"]
+			Team: ["teamS"]
 		}
 	},
 	{
-		name: "Taguchi Manaka",
-		img: "Ee7Tcxw.jpg",
+		name: "Sakamoto Marin",
+		img: "g0877Iv.jpg",
 		opts: {
-			Team: ["teamA"]
+			Team: ["teamS"]
 		}
 	},
 	{
-		name: "Yamane Suzuha",
-		img: "avVlKNY.jpg",
+		name: "Kitagawa Ryoha",
+		img: "URxP9SW.jpg",
 		opts: {
-			Team: ["teamA"]
+			Team: ["teamS"]
 		}
 	},
 	{
-		name: "Yokoyama Yui",
-		img: "RDnvRD7.jpg",
+		name: "Kitagawa Yoshino",
+		img: "tCIlwB9.jpg",
 		opts: {
-			Team: ["teamA"]
+			Team: ["teamS"]
+		}
+	},
+	{
+		name: "Kamimura Ayuka",
+		img: "Pvvfvnm.jpg",
+		opts: {
+			Team: ["teamS"]
+		}
+	},
+	{
+		name: "Okada Miku",
+		img: "HclPlh5.jpg",
+		opts: {
+			Team: ["teamS"]
+		}
+	},
+	{
+		name: "Otani Yuki",
+		img: "s0LYnX7.jpg",
+		opts: {
+			Team: ["teamS"]
+		}
+	},
+	{
+		name: "Inoue Ruka",
+		img: "21u1j8l.jpg",
+		opts: {
+			Team: ["teamS"]
+		}
+	},
+	{
+		name: "Ishiguro Yuzuki",
+		img: "qAjfwCx.jpg",
+		opts: {
+			Team: ["teamS"]
 		}
 	},
 
 	//Team K
 
 	{
-		name: "Ichikawa Minami",
-		img: "ee6fSqv.jpg",
+		name: "Souda Sarina",
+		img: "W0VvnDQ.jpg",
 		opts: {
 			Team: ["teamK"]
 			}
 	},
 	{
-		name: "Kojima Mako",
-		img: "1Uht1fD.jpg",
+		name: "Takagi Yumana",
+		img: "mdNxKL7.jpg",
 		opts: {
 			Team: ["teamK"]
 		}
 	},
 	{
-		name: "Minegishi Minami",
-		img: "xhESKG5.jpg",
+		name: "Shirai Kotono",
+		img: "NgGkPhk.jpg",
 		opts: {
 			Team: ["teamK"]
 		}
 	},
 	{
-		name: "Komiyama Haruka",
-		img: "uRQpCwW.jpg",
+		name: "Takayanagi Akane",
+		img: "VMOZkJe.jpg",
 		opts: {
 			Team: ["teamK"]
 		}
 	},
 	{
-		name: "Mogi Shinobu",
-		img: "8h0LCNS.jpg",
+		name: "Oba Mina",
+		img: "SQxHTLM.jpg",
 		opts: {
 			Team: ["teamK"]
 		}
 	},
 	{
-		name: "Mutou Orin",
-		img: "DDWKy7g.jpg",
+		name: "Hidaka Yuzuki",
+		img: "f4ayDMq.jpg",
 		opts: {
 			Team: ["teamK"]
 		}
 	},
 	{
-		name: "Mutou Tomu",
-		img: "bBAFbRE.jpg",
+		name: "Takeuchi Saki",
+		img: "RmVSYND.jpg",
 		opts: {
 			Team: ["teamK"]
 		}
 	},
 	{
-		name: "Nagamoto Ayami",
-		img: "E3s1Se9.jpg",
+		name: "Kitano Ruka",
+		img: "O6HZcU9.jpg",
 		opts: {
 			Team: ["teamK"]
 		}
 	},
 	{
-		name: "Shimoguchi Hinana",
-		img: "C65KSCu.jpg",
+		name: "Obata Yuna",
+		img: "sA4wUbR.jpg",
 		opts: {
 			Team: ["teamK"]
 		}
 	},
 	{
-		name: "Yahagi Moeka",
-		img: "TXw8ZGi.jpg",
+		name: "Aoki Shiori",
+		img: "zceD1Xp.jpg",
 		opts: {
 			Team: ["teamK"]
 		}
 	},
 	{
-		name: "Yasuda Kana",
-		img: "826It73.jpg",
+		name: "Uchiyama Mikoto",
+		img: "gju8Bld.jpg",
 		opts: {
 			Team: ["teamK"]
 		}
 	},
 	{
-		name: "Yumoto Ami",
-		img: "ItZc41f.jpg",
+		name: "Kataoka Narumi",
+		img: "WKno0QY.jpg",
+		opts: {
+			Team: ["teamK"]
+		}
+	},
+	{
+		name: "Nakano Airi",
+		img: "GrEraUr.jpg",
+		opts: {
+			Team: ["teamK"]
+		}
+	},
+	{
+		name: "Ego Yuna",
+		img: "4bTJYmN.jpg",
+		opts: {
+			Team: ["teamK"]
+		}
+	},
+	{
+		name: "Ota Ayaka",
+		img: "OtydkRL.jpg",
+		opts: {
+			Team: ["teamK"]
+		}
+	},
+	{
+		name: "Furuhata Nao",
+		img: "YoGULQR.jpg",
+		opts: {
+			Team: ["teamK"]
+		}
+	},
+	{
+		name: "Oshiba Rinka",
+		img: "HlbY4YW.jpg",
+		opts: {
+			Team: ["teamK"]
+		}
+	},
+	{
+		name: "Mizuno Airi",
+		img: "VevEXrd.jpg",
+		opts: {
+			Team: ["teamK"]
+		}
+	},
+	{
+		name: "Arai Yuki",
+		img: "eag5O6N.jpg",
+		opts: {
+			Team: ["teamK"]
+		}
+	},
+	{
+		name: "Matsumura Kaori",
+		img: "rihGJ8U.jpg",
 		opts: {
 			Team: ["teamK"]
 		}
 	},
 
-	//Team B
+	//Team E
 
 	{
-		name: "Fukuoka Seina",
-		img: "Lrmxzeg.jpg",
+		name: "Shirayuki Kohaku",
+		img: "Jz8iSg9.jpg",
 		opts: {
-			Team: ["teamB"]
+			Team: ["teamE"]
 			}
 	},
 	{
-		name: "Hiwatashi Yui",
-		img: "BGt6h06.jpg",
+		name: "Ida Reona",
+		img: "s0o6Qlo.jpg",
 		opts: {
-			Team: ["teamB"]
+			Team: ["teamE"]
 		}
 	},
 	{
-		name: "Iwate Saho",
-		img: "eZJc4jX.jpg",
+		name: "Kumazaki Haruka",
+		img: "vDdv2z1.jpg",
 		opts: {
-			Team: ["teamB"]
+			Team: ["teamE"]
 		}
 	},
 	{
-		name: "Kashiwagi Yuki",
-		img: "sYr0yU0.jpg",
+		name: "Fukai Negai",
+		img: "mOy6XhN.jpg",
 		opts: {
-			Team: ["teamB"]
+			Team: ["teamE"]
 		}
 	},
 	{
-		name: "Kitazawa Saki",
-		img: "s8LTijc.jpg",
+		name: "Nonogaki Miki",
+		img: "9lfraGj.jpg",
 		opts: {
-			Team: ["teamB"]
+			Team: ["teamE"]
 		}
 	},
 	{
-		name: "Kubo Satone",
-		img: "l2epvyU.jpg",
+		name: "Kurashima Ami",
+		img: "FfkzjOb.jpg",
 		opts: {
-			Team: ["teamB"]
+			Team: ["teamE"]
 		}
 	},
 	{
-		name: "Nakanishi Chiyori",
-		img: "xgiLXQW.jpg",
+		name: "Takahata Yuki",
+		img: "z176yZo.jpg",
 		opts: {
-			Team: ["teamB"]
+			Team: ["teamE"]
 		}
 	},
 	{
-		name: "Omori Maho",
-		img: "z4Hh8QP.jpg",
+		name: "Sugawara Maya",
+		img: "9sNdHE0.jpg",
 		opts: {
-			Team: ["teamB"]
+			Team: ["teamE"]
 		}
 	},
 	{
-		name: "Oya Shizuka",
-		img: "VGmp8Sq.jpg",
+		name: "Suenga Oka",
+		img: "KojK4Om.jpg",
 		opts: {
-			Team: ["teamB"]
+			Team: ["teamE"]
 		}
 	},
 	{
-		name: "Sasahi Yukari",
-		img: "wrpO0jU.jpg",
+		name: "Aikawa Honoka",
+		img: "LRcKVLs.jpg",
 		opts: {
-			Team: ["teamB"]
+			Team: ["teamE"]
 		}
 	},
 	{
-		name: "Takahashi Juri",
-		img: "14S4Dgn.jpg",
+		name: "Kamata Natsuki",
+		img: "liung5K.jpg",
 		opts: {
-			Team: ["teamB"]
+			Team: ["teamE"]
 		}
 	},
 	{
-		name: "Takita Kayoko",
-		img: "BIhqS5E.jpg",
+		name: "Suda Akari",
+		img: "IQuUdU1.jpg",
 		opts: {
-			Team: ["teamB"]
+			Team: ["teamE"]
 		}
 	},
 	{
-		name: "Taniguchi Megu",
-		img: "kOQ4QX9.jpg",
+		name: "Asai Yuka",
+		img: "cgfmtNh.jpg",
 		opts: {
-			Team: ["teamB"]
+			Team: ["teamE"]
 		}
 	},
 	{
-		name: "Yumabe Ayu",
-		img: "8VlbBSi.jpg",
+		name: "Goto Rara",
+		img: "tAi8psj.jpg",
 		opts: {
-			Team: ["teamB"]
-		}
-	},
-
-	//Team 4
-
-	{
-		name: "Asai Nanami",
-		img: "DDGKnuN.jpg",
-		opts: {
-			Team: ["team4"]
-			}
-	},
-	{
-		name: "Inagaki Kaori",
-		img: "i3JlciG.jpg",
-		opts: {
-			Team: ["team4"]
+			Team: ["teamE"]
 		}
 	},
 	{
-		name: "Kawamoto Saya",
-		img: "wmYVug9.jpg",
+		name: "Tani Marika",
+		img: "yaXf5ha.jpg",
 		opts: {
-			Team: ["team4"]
+			Team: ["teamE"]
 		}
 	},
 	{
-		name: "Ma-Chia-Ling",
-		img: "QuiRHRT.jpg",
+		name: "Hirata Shiina",
+		img: "WaUpLSZ.jpg",
 		opts: {
-			Team: ["team4"]
+			Team: ["teamE"]
 		}
 	},
 	{
-		name: "Murayama Yuiri",
-		img: "ECVNXFf.jpg",
+		name: "Saito Makiko",
+		img: "xVIAxxp.jpg",
 		opts: {
-			Team: ["team4"]
+			Team: ["teamE"]
 		}
 	},
 	{
-		name: "Okada Nana",
-		img: "0sW44GH.jpg",
+		name: "Nishi Marina",
+		img: "S9dkWY7.jpg",
 		opts: {
-			Team: ["team4"]
+			Team: ["teamE"]
 		}
 	},
 	{
-		name: "Omiri Miyuu",
-		img: "ViGT1Qs.jpg",
+		name: "Fukushi Nao",
+		img: "AVSBder.jpg",
 		opts: {
-			Team: ["team4"]
-		}
-	},
-	{
-		name: "Sato Kiara",
-		img: "BShwJAf.jpg",
-		opts: {
-			Team: ["team4"]
-		}
-	},
-	{
-		name: "Tada Kyoka",
-		img: "DwQ71ug.jpg",
-		opts: {
-			Team: ["team4"]
-		}
-	},
-	{
-		name: "Tatsuya Makiho",
-		img: "SiF41rH.jpg",
-		opts: {
-			Team: ["team4"]
-		}
-	},
-	{
-		name: "Taya Misaki",
-		img: "mMvXOHY.jpg",
-		opts: {
-			Team: ["team4"]
-		}
-	},
-	{
-		name: "Yamauchi Mizuki",
-		img: "KpaudT4.jpg",
-		opts: {
-			Team: ["team4"]
-		}
-	},
-
-	//Team 8
-	{
-		name: "Cho Kurena",
-		img: "N6N85bq.jpg",
-		opts: {
-			Team: ["team8","teamA"]
-			}
-	},
-	{
-	 	name: "Tanikawa Hijiri",
-	 	img: "2Umf0wM.jpg",
-	 	opts: {
-	 		Team: ["team8","teamA"]
- 		}
-	},
-	{
-		name: "Oda Erina",
-		img: "ett8uZt.jpg",
-		opts: {
-			Team: ["team8","teamK"]
-		}
-	},
-	{
-		name: "Harumoto Yuki",
-		img: "kt1S5pr.jpg",
-		opts: {
-			Team: ["team8","teamK"]
-		}
-	},
-	{
-		name: "Nakano Ikumi",
-		img: "lsu5QtC.jpg",
-		opts: {
-			Team: ["team8","teamK"]
-		}
-	},
-	{
-		name: "Kawahara Misaki",
-		img: "8b2hTqG.jpg",
-		opts: {
-			Team: ["team8","teamB"]
-		}
-	},
-	{
-		name: "Hidaritomo Ayaka",
-		img: "7h4Isf2.jpg",
-		opts: {
-			Team: ["team8","teamK"]
-		}
-	},
-	{
-		name: "Yoshida Karen",
-		img: "uQnHobC.jpg?1",
-		opts: {
-			Team: ["team8","teamA"]
-		}
-	},
-	{
-		name: "Okumoto Hinano",
-		img: "iZJEVLF.jpg",
-		opts: {
-			Team: ["team8","teamA"]
-		}
-	},
-	{
-		name: "Yokoyama Yui",
-		img: "EWA3MvY.jpg",
-		opts: {
-			Team: ["team8","teamK"]
-		}
-	},
-	{
-		name: "Yamada Nanami",
-		img: "eFQONp9.jpg",
-		opts: {
-			Team: ["team8","teamK"]
-		}
-	},
-	{
-		name: "Hattori Yuna",
-		img: "PQIlyGW.jpg",
-		opts: {
-			Team: ["team8","teamB"]
-		}
-	},
-	{
-		name: "Okabe Rin",
-		img: "nE55EB6.jpg",
-		opts: {
-			Team: ["team8","teamA"]
-		}
-	},
-	{
-		name: "Terada Misaki",
-		img: "uax3HAP.jpg",
-		opts: {
-			Team: ["team8","teamK"]
-		}
-	},
-	{
-		name: "Nagano Serika",
-		img: "ArQjDuG.jpg",
-		opts: {
-			Team: ["team8","team4"]
-			}
-	},
-	{
-		name: "Hitomi Kotone",
-		img: "HAXdQYY.jpg",
-		opts: {
-			Team: ["team8","teamA"]
-		}
-	},
-	{
-		name: "Takahashi Sayaka",
-		img: "bpy5z16.jpg",
-		opts: {
-			Team: ["team8","team4"]
-		}
-	},
-	{
-		name: "Sato Akari",
-		img: "VMxjDo9.jpg",
-		opts: {
-			Team: ["team8","teamB"]
-		}
-	},
-	{
-		name: "Yokomichi Yuri",
-		img: "DGQZGMf.png",
-		opts: {
-			Team: ["team8","teamK"]
-		}
-	},
-	{
-		name: "Okuhara Hinako",
-		img: "u3Dyiuw.jpg",
-		opts: {
-			Team: ["team8","teamB"]
-		}
-	},
-	{
-		name: "Sato Shiori",
-		img: "IlnfOQu.jpg",
-		opts: {
-			Team: ["team8","teamB"]
-		}
-	},
-	{
-		name: "Takahashi Ayane",
-		img: "bwJwFQq.jpg",
-		opts: {
-			Team: ["team8","team4"]
-		}
-	},
-	{
-		name: "Onishi Momoka",
-		img: "QCfyqj1.jpg",
-		opts: {
-			Team: ["team8","team4"]
-		}
-	},
-	{
-		name: "Hirano Hikaru",
-		img: "xT5wzHX.png",
-		opts: {
-			Team: ["team8","team4"]
-		}
-	},
-	{
-		name: "Yamada Kyoka",
-		img: "Mp5a1NQ.jpg",
-		opts: {
-			Team: ["team8","teamK"]
-		}
-	},
-	{
-		name: "Miyazato Rira",
-		img: "PSmrXm1.jpg",
-		opts: {
-			Team: ["team8","team4"]
-		}
-	},
-	{
-		name: "Sato Nanami",
-		img: "Dy1olPU.jpg",
-		opts: {
-			Team: ["team8","team4"]
-			}
-	},
-	{
-		name: "Sakaguchi Nagisa",
-		img: "Y8Fp0xD.jpg",
-		opts: {
-			Team: ["team8","team4"]
-		}
-	},
-	{
-		name: "Oguri Yui",
-		img: "AwxQ57F.jpg",
-		opts: {
-			Team: ["team8","teamA"]
-		}
-	},
-	{
-		name: "Shitao Miu",
-		img: "UjBRsQx.jpg",
-		opts: {
-			Team: ["team8","teamA"]
-		}
-	},
-	{
-		name: "Yamamoto Ruka",
-		img: "VdDGo98.jpg",
-		opts: {
-			Team: ["team8","teamB"]
-		}
-	},
-	{
-		name: "Honda Hitomi",
-		img: "NUC9tqY.jpg",
-		opts: {
-			Team: ["team8","teamB"]
-		}
-	},
-	{
-		name: "Takaoka Kaoru",
-		img: "bVBCfVp.jpg",
-		opts: {
-			Team: ["team8","team4"]
-		}
-	},
-	{
-		name: "Ota Nao",
-		img: "RrwyjFP.jpg",
-		opts: {
-			Team: ["team8","teamB"]
-		}
-	},
-	{
-		name: "Utada Hatsuka",
-		img: "ZAhpMv6.jpg",
-		opts: {
-			Team: ["team8","team4"]
-		}
-	},
-	{
-		name: "Hashimoto Haruna",
-		img: "Gs6MPcC.jpg",
-		opts: {
-			Team: ["team8","teamK"]
-		}
-	},
-	{
-		name: "Kuranoo Narumi",
-		img: "lr7ALNj.jpg",
-		opts: {
-			Team: ["team8","teamK"]
-		}
-	},
-	{
-		name: "Shimizu Maria",
-		img: "xmPfDMC.jpg",
-		opts: {
-			Team: ["team8","teamB"]
-		}
-	},
-	{
-		name: "Yoshikawa Nanase",
-		img: "MtroFxJ.jpg",
-		opts: {
-			Team: ["team8","teamB"]
-		}
-	},
-	{
-		name: "Hama Sayuna",
-		img: "rgn6Von.jpg",
-		opts: {
-			Team: ["team8","team4"]
-		}
-	},
-	{
-		name: "Noda Hinano",
-		img: "jcwZCT3.jpg",
-		opts: {
-			Team: ["team8","team4"]
-		}
-	},
-	{
-		name: "Gyoten Yurina",
-		img: "9YKE0S4.jpg",
-		opts: {
-			Team: ["team8","team4"]
-		}
-	},
-	{
-		name: "Rissen Airi",
-		img: "3E9ieRG.jpg",
-		opts: {
-			Team: ["team8"]
-		}
-	},
-	{
-		name: "Ito Kirara",
-		img: "aQxCWew.jpg",
-		opts: {
-			Team: ["team8"]
+			Team: ["teamE"]
 		}
 	}
 ];
